@@ -1,0 +1,13 @@
+Debugging Process
+
+Error 1, 2 & 3
+
+1. There were plenty of errors. It was missing the import Scanner, quotations that ended a string, a new scanner and system.out.println was written wrong. input.nextInt would be written wrong. Some strings didn't have the proper parenthesis and some strings were written as comments instead of assigning a value to an integer. In the program Error 3, when declaring the values of and integer, the name of the integer was written wrong. Starting the 
+
+2. You know that you found an error because the program would not run and the informartion that you put in would be wrong. Also when there's an error, the wrong part of the string would have a red line under it.
+
+3. The naming convention is important to avoid errors because it needs understandable names and they need to have their own way of expressing a value. Some naming conventions are case sensitive and some are now. If there's an error to the naming convention, it can affect your output and you wouldn't be able to run your program.
+
+Contributors: 
+Jonathan Marcelino
+Jeanie Nguyen
