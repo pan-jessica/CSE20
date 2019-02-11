@@ -1,0 +1,13 @@
+Level of Understanding
+
+1. For the output you would have to add 25 to charA because A=65 and there are 26 letters in the alphabet, you would have to add 25 to charA to get Z and Z=90.
+
+2. The numbers that wouldn't work for input of Manipulate would be numbers with a decimal point because if we enter numbers with decimal points then there would be a lose of information.
+
+3. The output differences between float and double is that double is a 64-bit precision and float is a 32-bit precision.
+
+4. This depends on how large the integers are because the short data type is a 16-bit. The largest value it can hold is 32,767.
+
+Collaborators:
+Jeanie Nguyen
+Johnathan Marcelino
